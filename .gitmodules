@@ -1,0 +1,12 @@
+[submodule "Notification-service"]
+	path = Notification-service
+	url = https://github.com/Abdeali1310/Flights_Notification_Service_Backend.git
+[submodule "flight-booking-service"]
+	path = flight-booking-service
+	url = https://github.com/Abdeali1310/Flights_Booking_backend.git
+[submodule "API-Gateway"]
+	path = API-Gateway
+	url = https://github.com/Abdeali1310/Flights_API_Gateway.git
+[submodule "Flight-Service"]
+	path = Flight-Service
+	url = https://github.com/Abdeali1310/Flights_Service_Backend.git
